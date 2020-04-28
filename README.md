@@ -1,2 +1,3 @@
 # FinalProject
-Final Project for DSCI 235.
+
+This is the repository containing my final Project for DSCI 235.
